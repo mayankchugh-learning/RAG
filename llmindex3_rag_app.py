@@ -14,7 +14,7 @@ model.to(device)
 # Set the maximum length for generated responses
 MAX_LENGTH = 100
 
-# Streamlit app
+# Streamlit appx``
 st.title("LLMINDEX RAG")
 
 # Input text
